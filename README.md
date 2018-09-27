@@ -1,2 +1,2 @@
 # hello-world
-Python is the best!
+Programming is the best thing
